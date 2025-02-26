@@ -88,10 +88,10 @@ WSGI_APPLICATION = 'studentstudyportal.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'studentstudyportal',  # Database name you created
-        'USER': 'root',        # MySQL username
-        'PASSWORD': 'Jitujha2002@',# MySQL password
-        'HOST': 'localhost',           # MySQL server address
+        'NAME': ' sql12764887',  # Database name you created
+        'USER': 'sql12764887',        # MySQL username
+        'PASSWORD': '21XkJ7X286',# MySQL password
+        'HOST': 'sql12.freesqldatabase.com',           # MySQL server address
         'PORT': '3306',                # Default MySQL port
     }
 }
